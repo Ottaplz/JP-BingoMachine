@@ -12,3 +12,4 @@ C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\refint\
 C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.pdb
 C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.genruntimeconfig.cache
 C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\ref\BingoMachine.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.sourcelink.json
