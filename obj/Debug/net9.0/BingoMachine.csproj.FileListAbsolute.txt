@@ -1,0 +1,14 @@
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\bin\Debug\net9.0\BingoMachine.exe
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\bin\Debug\net9.0\BingoMachine.deps.json
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\bin\Debug\net9.0\BingoMachine.runtimeconfig.json
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\bin\Debug\net9.0\BingoMachine.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\bin\Debug\net9.0\BingoMachine.pdb
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.AssemblyInfoInputs.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.AssemblyInfo.cs
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.csproj.CoreCompileInputs.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\refint\BingoMachine.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.pdb
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\BingoMachine.genruntimeconfig.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\BingoMachine\obj\Debug\net9.0\ref\BingoMachine.dll
